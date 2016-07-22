@@ -3,7 +3,8 @@ brand: SystemVerilog Editor
 bootswatch: null # flatly, yeti, lumen,... 
 navbar_inverse: false 
 bootstrap: 3.3.4
-navbar_right_items: 1
+navbar_right_items: 0
+breadcrumbs: false
 
 reflinks:
     support:

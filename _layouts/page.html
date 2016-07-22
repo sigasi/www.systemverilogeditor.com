@@ -24,9 +24,13 @@
 
     <div class="content">
       {% block content %}
+      {% if this.toc %}
       <div class="col-md-7" role="main">
         {{this.body}}
       </div>
+      {% else %}
+        {{this.body}}
+      {% endif %}
       {% endblock %}
     </div>
 
@@ -63,4 +67,3 @@
 </div>
 
 {% endblock %}
-

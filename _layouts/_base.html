@@ -14,12 +14,12 @@
     {% else %}
     {%   set theme_path = "bootstrap/" + bootstrap + "/css" %}
     {% endif %}
-    <link href="//netdna.bootstrapcdn.com/{{theme_path}}/bootstrap.min.css" rel="stylesheet" media="screen">
 
     {% set url_prefix = '' %}
     {% if site.baseurl %}
     {%   set url_prefix = '/' + site.baseurl %}
     {% endif %}
+    <link href="{{url_prefix + '/css/bootstrap.min.css'}}" rel="stylesheet" media="screen">
     <link href="{{url_prefix + '/css/site.css'}}" rel="stylesheet" media="screen">
     <link href="{{url_prefix + '/css/syntax.css'}}" rel="stylesheet" media="screen">
 
