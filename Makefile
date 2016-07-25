@@ -11,4 +11,4 @@ serve:
 	python -m urubu serve
 
 publish:
-	./publish.sh
+	./_publish.sh
