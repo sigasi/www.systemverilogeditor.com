@@ -5,6 +5,7 @@ navbar_inverse: false
 bootstrap: 3.3.4
 navbar_right_items: 0
 breadcrumbs: false
+google_analytics: UA-2852630-15
 
 reflinks:
     support:
