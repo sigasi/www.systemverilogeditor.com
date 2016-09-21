@@ -11,10 +11,10 @@ layout: page
 				<div class="field-item even" property="content:encoded">
 					<div id="container">
 						<div id="left" style="width:40%;float:left;padding:30px;">
-							<h2 style="text-align: center;">SystemVerilog Free Editor</h2>
+							<h2 style="text-align: center;">Sigasi Studio Starter Edition for SystemVerilog</h2>
 							<ul>
 								<li>
-									<strike>Free for small projects.</strike> Any project size!
+									<strike>Single files</strike>
 								</li>
 								<li>
 									Talkback is required.
@@ -31,7 +31,7 @@ layout: page
 							</p>
 						</div>
 						<div id="right" style="width:40%;float:right;padding:30px;">
-							<h2 style="text-align: center;">SystemVerilog Pro Editor</h2>
+							<h2 style="text-align: center;">Sigasi Studio Creator for SystemVerilog</h2>
 							<p style="text-align: center;">
 								<span style="line-height: 20.7999992370605px;">If you don't want to enable Talkback</span><span style="line-height: 20.7999992370605px;">, you can purchase a commercial license.</span>
 							</p>

@@ -7,7 +7,7 @@ layout: home
 content:
     - overview 
     - download
-    - pricing 
+    - try 
     - support
     - about
 comments: true
