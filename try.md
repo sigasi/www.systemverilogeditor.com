@@ -1,5 +1,5 @@
 ---
-title: SystemVerilog Editor Beta Program
+title: Beta Program
 layout: page
 ---
 <div id='crmWebToEntityForm' style='width:850px;margin:0 auto;' >
