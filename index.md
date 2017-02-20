@@ -2,12 +2,12 @@
 title: SystemVerilog Editor
 longtitle: SystemVerilog Editor
 tagline:
-    Powerful and efficiënt Editor and IDE for Verilog and SystemVerilog. Built for the future.
+    Powerful and efficient Editor and IDE for Verilog and SystemVerilog. Built for the future.
 layout: home
 content:
-    - overview 
+    - overview
     - download
-    - try 
+    - try
     - support
     - about
 comments: true
@@ -22,7 +22,7 @@ comments: true
 		<li>Find all locations where a module is instantiated
 		<li>Names of ports and wires are colored differently
 		</ul>
-		<a href="/features">[See how it works.]</a>
+		<a href="/features">[See how it works]</a>
 	</div>
 	<div class="col-md-4">
 		<h4>Powerful Editing</h4>

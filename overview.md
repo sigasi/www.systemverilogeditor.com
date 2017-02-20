@@ -10,7 +10,7 @@ Everything is a hyperlink. CTRL+click to jump to the declaration.
 
 <hr/>
 
-## Check bus with in seconds
+## Check bus within seconds
 Check the number of bits in any wire, reg or port.
 
 Simply place the mousepointer over the name. 
